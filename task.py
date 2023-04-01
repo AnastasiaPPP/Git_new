@@ -6,3 +6,4 @@ c = a + b
 print(c)
 
 x = a * c
+print(x)
